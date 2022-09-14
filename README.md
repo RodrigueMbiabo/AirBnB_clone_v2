@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Rodrigue Mbiaba - [Github](https://github.com/rodriguembiabo)
+Mohammed Abdi - [Github](https://github.com/Mo-solves)
 
 ## License
 Public Domain. No copy write protection. 
